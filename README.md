@@ -1,4 +1,8 @@
 # podcasts List
+
+## Player
+- Podcast Addict
+
 ## Python
 - Castálio
 - DevNaEstrada
