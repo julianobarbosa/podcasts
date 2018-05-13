@@ -3,6 +3,9 @@
 ## Player
 - Podcast Addict
 
+## Tech
+- hipsters.tech
+
 ## Python
 - Castálio
 - DevNaEstrada
